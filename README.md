@@ -96,19 +96,19 @@ O projeto é dividido em fases:
 Abaixo estão alguns exemplos de visualizações geradas pelo projeto:
 
 ### Dashboard Interativo
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshotsdashboard.png)
 *Dashboard com filtros e gráficos estilizados, incluindo a logo `JobsTrends.png`.*
 
 ### Top 10 Tecnologias
-![Top Tecnologias](screenshots/top_tecnologias_realistas.png)
+![Top Tecnologias](top_tecnologias_realistas.png)
 *Gráfico mostrando as tecnologias mais exigidas nas vagas.*
 
 ### Distribuição por Localização
-![Distribuição Localização](screenshots/distribuicao_localizacao_realistas.png)
+![Distribuição Localização](distribuicao_localizacao_realistas.png)
 *Distribuição de vagas por cidade, incluindo São Luís/MA.*
 
 ### Salário Médio por Nível
-![Salário por Nível](screenshots/salario_por_nivel_realistas.png)
+![Salário por Nível](salario_por_nivel_realistas.png)
 *Salários médios para Júnior, Pleno e Sênior.*
 
 
