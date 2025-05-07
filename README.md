@@ -111,7 +111,6 @@ Abaixo estão alguns exemplos de visualizações geradas pelo projeto:
 ![Salário por Nível](screenshots/salario_por_nivel_realistas.png)
 *Salários médios para Júnior, Pleno e Sênior.*
 
-> **Nota**: Para gerar screenshots, execute o dashboard e capture a tela, ou use os gráficos gerados na Fase 4. Substitua os caminhos acima pelos arquivos reais no diretório `screenshots/`.
 
 ## 🤝 Contribuição
 
@@ -129,7 +128,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## 📬 Contato
 
 - **Autor**: [Nilo Di Armanni]
-- **LinkedIn**: [Seu perfil LinkedIn, se desejar]
+- **LinkedIn**: [www.linkedin.com/in/nilo-di-armanni]
 - **E-mail**: [nilodiarmanniff@gmail.com]
 
 ---
